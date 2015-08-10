@@ -20,7 +20,7 @@ public class SeleniumContentTests {
     @BeforeClass
     public void setUp() {
         localSupplier = new SeleniumContentSupplier();
-        remoteSupplier = new SeleniumContentSupplier("10.70.20.115", 4043);
+        remoteSupplier = new SeleniumContentSupplier("127.0.0.1", 4043);
     }
 
     @AfterClass
