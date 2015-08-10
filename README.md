@@ -1,4 +1,4 @@
-Selenium content supplier samples.
+Selenium content supplier samples
 ======
 
 This code provides couple of usage examples for Selenium content supplier library:
