@@ -7,7 +7,7 @@ https://github.com/sskuts/selenium-supplier.
 You can find detailed instruction in the following article:
 http://qa-automation-notes.blogspot.com/2015/08/selenium-content-supplier.html
 
-Author: Serhii Kuts (sergey.s.kuts@gmail.com)
+Author: Serhii (Kuts) Korol (serhii.s.korol@gmail.com)
 
 You can easily download and unzip latest Selenium content the following way:
 ```java
